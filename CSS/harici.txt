@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>harici CSS</title>
+		<link rel="stylesheet" type="text/css" href="still.css">
+	</head>
+
+	<body>
+		
+		<h1>deneme</h1>
+		<h2>deneme</h2>
+		<h3>deneme</h3>	
+	</body>
+
+</html>

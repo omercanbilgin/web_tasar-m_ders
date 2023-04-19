@@ -1,0 +1,29 @@
+<html>
+
+<head>
+
+<title> Web Tasarımının Temelleri </title>
+</head>
+
+<body bgcolor="green">
+<h1> Başlık </h1>
+1.satır <br>
+2.satır <br>
+3.satır <br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+<hr width="100">
+
+<br><br><br>
+<hr width="100" align="left">
+<p> Paragraf </p>
+
+</body>
+
+
+</html>

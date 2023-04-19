@@ -1,0 +1,23 @@
+<html>
+	
+	<head>
+
+		<title>Genel CSS</title>
+	
+	<style type="text/css">
+		<!--
+			h1 {color:blue; font-size:15}
+		
+		-->
+		
+	</style>
+
+	</head>
+	
+<body>
+	<h1>Trabzonspor</h1>
+	<h2>Real Madrid</h2>
+	<h3>Liverpool</h3>
+</body>
+
+</html>

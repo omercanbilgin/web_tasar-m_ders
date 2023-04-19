@@ -1,0 +1,58 @@
+<html>
+
+<head>
+<title>Tablo</title>
+</head>
+
+<body>
+
+
+<table border="1"> 
+
+	<tr>
+	<td bgcolor=>Hücre1</td>
+	</tr>
+
+</table> <br><br>
+
+
+<table border="1">
+
+	<tr>
+	<td>Hücre1</td>
+	<td>Hücre2</td>
+	</tr>
+
+</table> <br><br>
+
+
+<table border="1">
+
+	<tr>
+	<td bgcolor="red">Hücre1</td>
+	</tr>
+
+	<tr>
+	<td bgcolor="blue">Hücre</td>
+	</tr>
+
+</table><br><br>
+
+
+<table border="1">
+
+	<tr>
+	<td background="m.jpg" width="200" height="200">Hücre1</td>
+	<td background="m.jpg" width="200" height="200">Hücre2</td>
+	</tr>
+
+	<tr>
+	<td background="m.jpg" width="200" height="200">Hücre3</td>
+	<td background="m.jpg" width="200" height="200">Hücre4</td>
+	</tr>
+
+</table>
+
+</body>
+
+</html>

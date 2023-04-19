@@ -1,0 +1,71 @@
+<html>
+
+<head>
+
+<title>Güneş Tutulması</title>
+</head>
+
+<body>
+<a name="3">
+
+<h1> Güneş Tutulması</h1>
+
+<p><b> Güneş tutulması</b></p><b>
+
+<a href="#1" target="_self"> Güneş Tutulması</a><br><br>
+<a href="#2" target="_self"> Gözlem</a> <br> <br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a name="1">
+<h2> Tam Güneş Tutulması</h2>
+Ay'ın Güneş'i Dünya'dan disk halinde görünen ışıkyuvarını tümüyle örtmesi ile oluşur. Güneş'in çok parlak olan ışıkyuvarı Ay'ın karanlık gölgesi ile örtülür ve Güneş'in ışıkyuvarından
+
+<a name="2">
+<h2> Gözlem </h2>
+Çok kısa bir süre bile olsa Güneş'e doğrudan bakmak, göz retinasında kalıcı hasara ve dolayısıyla körlüğe varan görüş kalıcı görüş bozukluklarına neden olabilir. Retina acıya duyarlı olmadığından, bu hasarın oluşma hissi algılanmaz
+
+<a href="#3" target="_self"> Başa dön </a> <br> <br>
+
+</body>
+
+
+</html>

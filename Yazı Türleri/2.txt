@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+<title>ÜstBaşlık</title>
+
+</head>
+
+<body>
+<font face="Arial"> Yazı Tipi Arial</font face> <br>
+<font face="Times New Roman"> Yazı Tipi Times New Roman</font face> <br>
+<font face="Verdana"> Yazı Tipi Verdana </font size> <br>
+
+
+<font size="1"> Yazı Boyutu 1 </font size> <br>
+<font size="2"> Yazı Boyutu 2 </font size> <br>
+<font size="3"> Yazı Boyutu 3 </font size> <br>
+
+
+<font color="red"> Kırmızı Yazı</font color> <br>
+<font color="#ff0000"> Kırmızı Yazı</font color> <br>
+
+<font face="Verdana" size="8" color="red"> Yazı!!!!</font>
+
+</body>
+
+
+</html>

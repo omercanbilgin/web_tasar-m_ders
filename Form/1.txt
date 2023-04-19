@@ -1,0 +1,137 @@
+<html>
+
+<head>
+
+	<title>Form</title>
+
+</head>
+
+
+<body>
+	<form>
+		<table border="2" width="200" height="200" align="center">
+	<tr>
+	
+<td colspan="2" valign="top" width="250" height="50">
+		<h1 align="center">İş Başvuru Formu</h1></td>
+      
+	</tr>
+	
+	
+	<tr>
+	
+	<td>Adı</td>
+	<td><input type = "text"></td>
+      
+	</tr>
+	
+	<tr>
+	
+	<td>Soyadı</td>
+	<td><input type = "text"></td>
+      
+	</tr>
+	
+	<tr>
+	
+	<td>Doğum Tarihi</td>
+	<td><input type = "date"></td>
+      
+	</tr>
+
+	<tr>
+<td>Doğum Yeri</td>
+<td>
+  <select>
+       <option>Ankara</option>
+       <option>İstanbul</option> 
+       <option>İzmir</option>
+       <option>Diğer</option>
+    </select>
+</td>
+</tr>
+	<tr>
+	
+	<td>Cinsiyet</td>
+<td><input type = "radio">Erkek <input type = "radio">Kadın</td>
+      
+	</tr>
+
+	<tr>
+<td>Referanslar</td>
+<td>
+    <textarea cols="40" rows="3"></textarea>
+</td>
+</tr>
+
+
+<tr>
+<td>Alışkanlıklar</td>
+<td>
+<input type="radio" name="sigara" value="0">Sigara içiyorum
+<input type="radio" name="sigara" value="1">Sosyal içiciyim
+<input type="radio" name="sigara" value="2">İçmiyorum
+</td>
+</tr>
+ 
+<tr>
+	<td>Yabancı Dil</td>
+<td><input type = "checkbox">İngilizce<br>
+<input type = "checkbox">Almanca<br>
+<input type ="checkbox">Fransızca<br>
+<input type = "checkbox">İngilizce<br>
+<input type = "checkbox">İspanyolca<br>
+<input type = "checkbox">Çince<br>
+<input type = "checkbox">Rusça</td>
+
+</tr>
+
+	<tr>
+<td>Askerlik</td>
+<td>
+<select name="askerlik">
+<option value="tecilli">Tecilli</option> 
+<option value="muaf">Muaf</option>
+<option value="Yapıldı">Yapıldı</option>
+</select>
+</td>
+</tr>
+	<tr>
+<td>Eğitim</td>
+<td>
+<select name="egitim">
+<option value="lise">Lise</option> 
+<option value="onlisans">Ön Lisans</option>
+<option value="lisans">Lisans</option>
+<option value="y.lisans">Y.Lisans</option>
+<option value="doktora">Doktora</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td>Geçmiş İşler</td>
+<td>
+<textarea cols="40" rows="4"></textarea>
+</td>
+</tr>
+	
+	<tr>
+<td colspan="2" align="center">
+<input type="submit" 
+  value="Kaydet">
+<input type="submit" 
+  value="Temizle">
+</td>
+</tr>
+
+ 
+ 
+</table>
+</form>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,41 @@
+<html>
+
+<head>
+		<title>Liste</title>
+</head>
+
+<body>
+	<h2 align="center"> Dersler</h2>
+
+<ol>
+
+	<li>Programlama
+<ol type=a>
+	<li>Görsel
+<ul>
+	<li>Döngüler
+	<li>Şart
+</ul>
+	<li>Nesne
+
+</ol>
+
+	<li>Çizim
+
+	<ol type=a start=3><li>Tasarım</ol>
+
+</ol>
+
+	<h2 align="center"> Günler </h2>
+
+
+<ul>
+<li>Pazartesi
+<li>Salı
+</ul>
+
+
+</body>
+
+
+</html>

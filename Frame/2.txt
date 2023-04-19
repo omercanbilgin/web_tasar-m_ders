@@ -1,0 +1,19 @@
+<html>
+
+<head>
+<title> Frame </title>
+</head>
+
+
+
+
+
+<frameset rows="50,50" cols="50,50">
+   <frame name="a" src="sag.htm">
+   <frame name="b" src="sol.htm">
+   <frame name="c" src="alt.htm">
+   <frame name="d" src="alt1.htm">
+</frameset>
+
+
+</html>
